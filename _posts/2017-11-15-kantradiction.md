@@ -12,7 +12,7 @@ Here’s an example argument that shows a logical contradiction in Kant’s mora
 4.	If you have a maxim, you should will for everyone to have that maxim: this is a restatement of Kant’s Categorical Imperative
 
 Then consider the following argument: In the world as it is right now, if you risk your life to help others, then you are likely to die sooner than you would have if you did not risk your life to help others. Therefore, if you never risk your life to help others, you should except to survive longer. Therefore, “never risking your life to help others” is a means to an end of yours. Therefore, by assumption 2, you should adopt the maxim “you should never risk your like to help others”. 
-(continued on next page)
+
 Now, imagine a hypothetical world where everyone adopts this maxim. This hypothetical world will have more death overall than the real world, because fewer people would be saved from natural disasters by heroic rescuers. Therefore, in this hypothetical world, you are more like to die than in the current world. Therefore, by assumption 3, you should not will this hypothetical world be real, as it would contradict your will for your own survival. In conclusion, you should follow the maxim that “you should never risk your life to help others”, but you should not will the hypothetical world where everyone follows that maxim. This directly contradicts assumption 4, so we have a logical contradiction.
 
 This is in essence a situation where you have two conflicting duties – one to protect yourself and one to protect others – and you can’t do both at the same time. No matter what action you choose, you will violate one of your duties. It is possible to construct other examples of such situations. For a short list:
@@ -24,6 +24,8 @@ Many other conflicts of this type can be developed. Kantianism leaves no room fo
 
 It could be argued that some of the duties in the examples above are imperfect, and so could be disobeyed in order to follow a perfect duty. To avoid this criticism, consider this example of a situation where two perfect duties conflict. Kant claims that “keeping your promises” and “refraining from suicide” are both perfect duties (Johnson, “Kant’s Moral Philosophy”). Imagine that you are a sheriff in a country where homicide legally must be immediately punished by death. Assume that when you became a sheriff, you swore an oath to do everything in your power to uphold your country’s laws. Then imagine that through some freak accident, you unintentionally kill someone in a way that is legally your fault. Then to keep your promise to uphold the law, you must ensure that you are immediately killed. Now imagine that you’re in the middle of the desert and there is nothing else around to kill you, so the only way you can immediately die is if you commit suicide. Then you have a perfect duty to keep your promise by committing suicide, but you also have a perfect duty to refrain from committing suicide. This is a conflict of perfect duties, and therefore a logical contradiction in Kant’s theory of morality.
 
-Works Referenced
+## Works Referenced
+
 Alexander, Larry and Moore, Michael, "Deontological Ethics", The Stanford Encyclopedia of Philosophy (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/ethics-deontological/>.
+
 Johnson, Robert and Cureton, Adam, "Kant's Moral Philosophy", The Stanford Encyclopedia of Philosophy (Fall 2017 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2017/entries/kant-moral/>.
