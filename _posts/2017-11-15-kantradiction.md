@@ -6,8 +6,8 @@ title: "Kantradiction"
 ---
 
 Here’s an example argument that shows a logical contradiction in Kant’s moral framework. I start by stating Kant’s assumptions:
-1.	You should will your own survival: “It is a duty to preserve one’s life” (pg. 92)
-2.	If you will some end, you should will the means to that end: for example, Kant argues that achieving happiness is a duty only because happiness is a means to avoid temptations to break your duties in the future (pg. 93), this assumption is also supported by Kant scholars (Johnson, “Kant’s Moral Philosophy”)
+1.	You should will your own survival: “It is a duty to preserve one’s life” (Cahn, pg. 92)
+2.	If you will some end, you should will the means to that end: for example, Kant argues that achieving happiness is a duty only because happiness is a means to avoid temptations to break your duties in the future (Cahn, pg. 93), this assumption is also supported by Kant scholars (Johnson, “Kant’s Moral Philosophy”)
 3.	You should not will anything that contradicts something else you will: then your will would be necessarily irrational
 4.	If you have a maxim, you should will for everyone to have that maxim: this is a restatement of Kant’s Categorical Imperative
 
@@ -27,5 +27,7 @@ It could be argued that some of the duties in the examples above are imperfect, 
 ## Works Referenced
 
 Alexander, Larry and Moore, Michael, "Deontological Ethics", The Stanford Encyclopedia of Philosophy (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/ethics-deontological/>.
+
+Cahn, Steven M., and Andrew T. Forcehimes. Principles of Moral Philosophy: Classic and Contemporary Approaches. Oxford University Press, 2017.
 
 Johnson, Robert and Cureton, Adam, "Kant's Moral Philosophy", The Stanford Encyclopedia of Philosophy (Fall 2017 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2017/entries/kant-moral/>.
