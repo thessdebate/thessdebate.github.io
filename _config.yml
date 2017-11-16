@@ -2,23 +2,23 @@
 # Customize Options: Must Change
 #
 # Title:
-title: Duo, A Simple Jekyll Theme
+title: The Springer-Soiffer Debate
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://chibicode.github.io"
+url: "https://thessdebate.github.io"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, write:
 #
-# baseurl: nil
-baseurl: "/duo/"
+baseurl: nil
+# baseurl: "/duo/"
 
 # Twitter IDs
 twitter:
-  username: "chibicode"
+  username: "n/a"
 author:
-  twitter: "chibicode"
+  twitter: "n/a"
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
@@ -34,7 +34,7 @@ defaults:
 #
 # See: https://material.io/guidelines/style/color.html
 # Use color-name-value, like pink-200 or deep-purple-100
-brand_color: "amber-400"
+brand_color: "deep-purple-100"
 
 # How article URLs are structured.
 # See: https://jekyllrb.com/docs/permalinks/
