@@ -27,7 +27,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "static/images/og.jpg"
+      image: "static/images/logo.png"
 
 # ----------------------------------------------------------------------------
 # Customize Options: Optional
