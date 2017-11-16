@@ -5,6 +5,8 @@ title: "Kantradiction"
 # image: ...
 ---
 
+I've been reading about Kantianism recently, and while Kant is certainly an influential philosopher, I personally dislike Kant's moral philosophy. In this post, I attempt to show that Kant's moral framework must be incorrect, as it contains inherent contradictions.
+
 Here’s an example argument that shows a logical contradiction in Kant’s moral framework. I start by stating Kant’s assumptions:
 1.	You should will your own survival: “It is a duty to preserve one’s life” (Cahn, pg. 92)
 2.	If you will some end, you should will the means to that end: for example, Kant argues that achieving happiness is a duty only because happiness is a means to avoid temptations to break your duties in the future (Cahn, pg. 93), this assumption is also supported by Kant scholars (Johnson, “Kant’s Moral Philosophy”)
